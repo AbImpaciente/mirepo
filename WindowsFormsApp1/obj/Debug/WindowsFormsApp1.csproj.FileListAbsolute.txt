@@ -1,0 +1,10 @@
+C:\Users\X240\source\repos\Log4Net\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\X240\source\repos\Log4Net\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\X240\source\repos\Log4Net\WindowsFormsApp1\bin\Debug\log4net.dll
+C:\Users\X240\source\repos\Log4Net\WindowsFormsApp1\bin\Debug\log4net.xml
+C:\Users\X240\source\repos\Log4Net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\X240\source\repos\Log4Net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\X240\source\repos\Log4Net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\X240\source\repos\Log4Net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\X240\source\repos\Log4Net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\X240\source\repos\Log4Net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
